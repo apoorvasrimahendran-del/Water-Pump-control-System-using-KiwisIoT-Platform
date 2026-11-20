@@ -28,14 +28,3 @@ The system uses an ESP8266 NodeMCU and a relay module to control the water pump 
 [View code](pump.ino)
 # Platform
 *IoT platform:*[KiwisIoT](https://kiwisiot.in)
-# Applications
-- Smart irrigation systems
-- Remote water management
-- Smart home automation
-- IoT-based pump monitoring and control
-
-
-
-📜 License
-
-This project is created for educational and learning purposes.
